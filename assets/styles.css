@@ -1,0 +1,56 @@
+body, th, td, li, ul, ol, dl, dd, dt, p, blockquote {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #000;
+    color: #FFF;
+    margin: 10px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFF;
+}
+
+.container {
+    /*margin: auto 50%;*/
+    width: 850px;
+}
+
+.image {
+    width: 150px;
+    height: 150px;
+    background-color: #777;
+    margin: 0 20px 20px 0;
+    float: left;
+    text-align: center;
+    cursor: pointer;
+}
+
+.image_big {
+    width: 300px;
+    height: 300px;
+    margin: 0;
+}
+
+.number {
+    font-size: 4em;
+    margin: 40px 0;
+}
+
+.number_big {
+    font-size: 8em;
+    margin: 80px 0;
+}
+
+.Orange {
+    background-color: #FF4500 !important;
+}
+
+.Red {
+    background-color: #CD0000 !important;
+}
